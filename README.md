@@ -3,7 +3,6 @@ Smart water meter data analyzed to solve water issues through the Concepts of Da
 
 # Smart Water Meter Data Analysis Project
 
-![Water Meter](https://example.com/water-meter-image.jpg)
 
 This repository contains the code and documentation for our Smart Water Meter Data Analysis project, developed by a team of students from the Amrita School of Computing, Coimbatore. Our goal is to utilize smart water meter technology to solve water-related issues by detecting inappropriate water consumption and improving water management. 
 
